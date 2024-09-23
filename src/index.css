@@ -6,6 +6,8 @@
 @tailwind utilities;
 
 
+
+
 .bg-custom-image {
   background-image: url('/public/images/indir3.jpg');
   background-size: cover;
